@@ -6,8 +6,8 @@ Data Scientist Nanodegree Project
 
 1. [Installation](#Installation)
 2. [Project Motivation](#Project Motivation)
-3. Results(#Results)
-4. Licensing, Authors, and Acknowledgements (#Licensing, Authors, and Acknowledgements)
+3. [Results](#Results)
+4. [Licensing, Authors, and Acknowledgements] (#Licensing, Authors, and Acknowledgements)
 
 
 
