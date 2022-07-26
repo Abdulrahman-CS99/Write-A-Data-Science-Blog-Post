@@ -25,6 +25,6 @@ The project looking to answer three questions which are :
 - Is money related to satisfaction in the top 5 countries?
 
 ## Results
-The results will be found on this blog (#www.google.com.sa)
+The results will be found on this [blog] (#www.google.com.sa)
 
 ## Licensing, Authors, and Acknowledgements
