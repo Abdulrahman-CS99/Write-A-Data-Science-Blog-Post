@@ -12,8 +12,9 @@ Data Scientist Nanodegree Project
 
 
 ## Installation
-
-
+The project needs to be run on a Jupyter Notebook locally. Also the project needs the following libraries to be installed:
+- i
+- f,f,
 
 ## Project Motivation
 
