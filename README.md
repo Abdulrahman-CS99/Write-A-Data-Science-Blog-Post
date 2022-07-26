@@ -28,4 +28,4 @@ The project looking to answer three questions which are :
 The results will be found on this [blog](www.google.com.sa)
 
 ## Licensing, Authors, and Acknowledgements
- A special thanks for Stackoverflow for the data. You can find the Licensing for the data and other descriptive information at the Stackoverflow link available [here](https://www.kaggle.com/datasets/mchirico/stack-overflow-developer-survey-results-2019).
+ A special thanks for Stackoverflow for the data. You can find the Licensing for the data and other descriptive information on this link[here](https://www.kaggle.com/datasets/mchirico/stack-overflow-developer-survey-results-2019).
