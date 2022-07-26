@@ -13,12 +13,18 @@ Data Scientist Nanodegree Project
 
 ## Installation
 The project needs to be run on a Jupyter Notebook locally. Also the project needs the following libraries to be installed:
-- i
-- f,f,
+- Pandas
+- Numpy
+- Matplotlib
 
 ## Project Motivation
 
-## Results
+The project looking to answer three questions which are :
+- What is the famous programming language according to 2019 Stackoverflow survey?
+- What are the top 5 countries that pay for programmers
+- Is money related to satisfaction in the top 5 countries?
 
+## Results
+The results will be found on this blog (#www.google.com.sa)
 
 ## Licensing, Authors, and Acknowledgements
